@@ -1,0 +1,11 @@
+.prod {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 2px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+.prod:hover {
+  background-color: greenyellow;
+}
